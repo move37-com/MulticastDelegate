@@ -17,5 +17,6 @@ Pod::Spec.new do |s|
   s.description  = 'Multicast Delegate made for swift language.'
   s.source_files = 'Sources/MulticastDelegate.swift'
   s.requires_arc = true
+  s.swift_version = '4.2'
 end
 
